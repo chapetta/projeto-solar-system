@@ -23,7 +23,7 @@ Criar múltiplos componentes a partir de um array;<br>
 
 Fazer uso de props corretamente;<br>
 
-Fazer uso de PropTypes para validar as props de um componente.<br>
+Fazer uso de PropTypes para validar as props de um componente.<br><br>
 </p>
 
  <h3> Requisitos do Projeto: </h3>
