@@ -6,9 +6,9 @@ Neste projeto desenvolvi um modelo do sistema solar! Ao utilizar essa aplicaçã
   Visualizar todos os planetas do sistema solar renderizados na tela;<br>
 
   Visualizar todas as cartas com informações sobre missões espaciais;
-  </p>
+  </p> <br>
  
- <h4>Habilidades usadas no projeto:</h4>
+ <h3>Habilidades usadas no projeto:</h3>
  <p>
 
 Utilizar JSX no React; <br>
